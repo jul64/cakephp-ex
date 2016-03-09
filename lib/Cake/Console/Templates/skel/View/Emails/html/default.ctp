@@ -21,6 +21,6 @@
 $content = explode("\n", $content);
 
 foreach ($content as $line):
-	echo '<p> !!test!! ' . $line . "</p>\n";
+	echo '<p> !!test 2!! ' . $line . "</p>\n";
 endforeach;
 ?>
